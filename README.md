@@ -6,7 +6,7 @@ RL focussed sim env using gymansium's gym implementation.
 After cloning the repository run from the folder where you cloned your project into
 
 ```bash
-pip install -e speederbikes-sim/
+pip install -e speederbikes_sim/
 ```
 
 In your code you need to import
