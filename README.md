@@ -1,6 +1,8 @@
 # Speederbike simulation envirionment
 RL focussed sim env using gymansium's gym implementation.
 
+![](./figures/screenshot_1.png)
+
 ## Usage
 
 After cloning the repository run from the folder where you cloned your project into
